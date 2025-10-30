@@ -1,0 +1,1 @@
+# Azure-DataFactory-to-Snowflake-PIPE
